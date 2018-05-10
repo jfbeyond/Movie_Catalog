@@ -8,20 +8,33 @@ Need to have/install Python:
 
 - Need to install TMDB API Python wrapper:
 
+Installation
+tmdbsimple is available on the Python Package Index (PyPI) at https://pypi.python.org/pypi/tmdbsimple.
 
+You can install tmdbsimple using one of the following techniques.
 
-               It has different classes that take care of the different possible requests that can be
+Use pip:
+pip install tmdbsimple
+Download the .zip or .tar.gz file from PyPI and install it yourself
+Download the source from Github and install it yourself
+If you install it yourself, also install requests.
 
-               made to the API. In this project, I utilized only two methods: .movies() and search().
-
-               Expanding to including other methods would complement the information offered in this website.
-
-               It can be left as an opportunity to improvement.
+It has different classes that take care of the different possible requests that can be
+made to the API. In this project, I utilized only two methods: .movies() and search().
+Expanding to including other methods would complement the information offered in this website.
+It can be left as an opportunity to improvement.
 
 
 
 - Need to get an API Key from TMDB:
 
+API Key
+You will need an API key to The Movie Database to access the API. To obtain a key, follow these steps:
+
+Register for and verify an account.
+Log into your account.
+Select the API section on left side of your account page.
+Click on the link to generate a new API key and follow the instructions.
 
 
 - Clone this repository in your local drive
