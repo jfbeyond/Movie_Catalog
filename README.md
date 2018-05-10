@@ -11,9 +11,9 @@ Clone or download this project in your local machine to be able to run the websi
 
 Follow [these](https://datascience.com.co/how-to-install-python-2-7-and-3-6-in-windows-10-add-python-path-281e7eae62a) instructions for step-by-step python installation.
 
-### Need to install TMDB API Python wrapper.
+### Need to install TMDB API Python wrapper "tmdbsimple".
 
-You can install tmdbsimple by running the following command in your command line:
+This python wrapper has defined methods for different requests to the TMDB API and takes care of the authentication through OATH2.0. You can install tmdbsimple by running the following command in your command line:
 
 ```
 Use pip: pip install tmdbsimple 
