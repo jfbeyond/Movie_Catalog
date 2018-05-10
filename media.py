@@ -1,5 +1,5 @@
 import tmdbsimple as tmdb
-tmdb.API_KEY = '75efba297d4e1c34abc4d07ff269a878'
+tmdb.API_KEY = 'Insert your API Key Here'
 
 
 class Findmovie():
