@@ -9,7 +9,7 @@ Clone or download this project in your local machine to be able to run the websi
 
 ### Need to have/install Python 2.7.
 
-Follow [these](https://datascience.com.co/how-to-install-python-2-7-and-3-6-in-windows-10-add-python-path-281e7eae62a) instructions for step-by-step python installation:
+Follow [these](https://datascience.com.co/how-to-install-python-2-7-and-3-6-in-windows-10-add-python-path-281e7eae62a) instructions for step-by-step python installation.
 
 ### Need to install TMDB API Python wrapper.
 
