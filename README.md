@@ -18,8 +18,8 @@ You can install tmdbsimple by running the following command in your command line
 ```
 Use pip: pip install tmdbsimple 
 ```
-Although only two methods will be utilized in this project from this TMDB API wrapper, it is recommended to visit
-the [tmdbsimple](https://github.com/celiao/tmdbsimple) repository to get a grasp of all the methods and tools.
+Although only two methods from this TMDB API wrapper will be utilized in this project (Search() and Movies()), it is recommended to visit
+the [tmdbsimple](https://github.com/celiao/tmdbsimple) repository to get a full grasp of all the methods and tools.
 
 ###  API Key
 
@@ -33,7 +33,7 @@ An API Key to the Movie Database will be needed to access the API. Follow these 
 This obtained key must be placed in one of the project files as indicated next.
 
 
-## Running the tests
+## Running the Movie Website
 
 Go to the directory where the project files were downloaded. You should have:
 
@@ -55,7 +55,7 @@ Just give it a try!
 
 ## Authors
 
-* **Jhon Diaz** - *Initial work* - [jfbeyond](https://github.com/jfbeyond)
+* **Jhon Diaz** - [jfbeyond](https://github.com/jfbeyond)
 
 ## Acknowledgments
 
