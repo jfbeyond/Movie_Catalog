@@ -5,7 +5,7 @@ The website functionality can be applied to any desired movie as a new API reque
 
 ## Getting Started
 
-Clone or download this project in your local machine to be able to run the website.
+Clone or download this project (folder: Movie_catalog) in your local machine to be able to run the website.
 
 ### Need to have/install Python 2.7.
 
@@ -44,7 +44,8 @@ you obtained previously in the second line of this file in order to enable the r
 It contains an array with the names of my favorite movies, which can be modified to contain any movie name.
 
 3. fresh_tomatoes.py: This is the template offered by udacity with the styles and html set up for the website.
-It uses the movie array defined in entertainment_media.py
+It uses the movie array defined in entertainment_media.py. It was slightly modified to read the movie array and 
+to display different background colors.
 
 To run the application, please open entertainment_media.py in your python GUI (IDLE might be) and run the code.
 A website should open in your browser with my favorites movies displaying their titles, poster pictures and the
