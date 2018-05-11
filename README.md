@@ -13,7 +13,7 @@ Follow [these](https://datascience.com.co/how-to-install-python-2-7-and-3-6-in-w
 
 ### Need to install TMDB API Python wrapper "tmdbsimple".
 
-This python wrapper has defined methods for different requests to the TMDB API and takes care of the authentication through OATH2.0. You can install tmdbsimple by running the following command in your command line:
+This python wrapper has defined methods for different requests to the TMDB API and takes care of the authentication through OAuth 2.0. You can install tmdbsimple by running the following command in your command line:
 
 ```
 Use pip: pip install tmdbsimple 
